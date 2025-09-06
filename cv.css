@@ -44,6 +44,13 @@ body {
   margin-right: 8px;
   color: #bf7f00;
 }
+.contact a {
+  color: white;
+  text-decoration: none;
+}
+.contact a:hover {
+  color: rgb(228, 182, 122);
+}
 .profile p {
   text-align: justify;
   margin-left: 24px;
@@ -93,9 +100,6 @@ h2 {
 ul {
   margin: 5px 0 15px 20px;
   list-style: none;
-}
-.certifications {
-  color: #003f5c;
 }
 
 /* Responsive */
