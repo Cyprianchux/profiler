@@ -2,7 +2,9 @@
 
 This repository contains my professional Curriculum Vitae (CV) designed for opportunities in Sound Engineering, Software Engineering, and Data Analysis.
 
-Use the <a href="cypee-profiler.vercel.app">link</a> to view this page:
+Use the <a href="">link</a> to view this page
+
+`cypee-profiler.vercel.app`
 
 ## Technologies Used
 
