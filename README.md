@@ -1,10 +1,10 @@
-# Cyprian C. Ikogwe – Professional CV
+# Cyprian Ikogwe – Professional CV
 
-This repository contains my professional Curriculum Vitae (CV) designed for opportunities in Sound Engineering, Software Engineering, and Data Analysis.
+This repository contains my professional Curriculum Vitae (CV) designed for opportunities in Software Engineering and Data Analysis.
 
-Use the <a href="">link</a> to view this page
+Use the <a href="https://cyprianchux.github.io/profiler/">link</a> to view this page
 
-`cypee-profiler.vercel.app`
+`cypee-resume.vercel.app`
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@ Font Awesome – Icons for contact details and sections.
 
 ## Contact
 
-**Name:** Cyprian C. Ikogwe
+**Name:** Cyprian Ikogwe
 
 **Email:** cyprianchux@gmail.com
 
