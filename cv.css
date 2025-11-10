@@ -20,7 +20,7 @@ body {
   padding: 20px 20px;
 }
 .sidebar h1 {
-  font-size: clamp(28px, 2.5vw, 32px);
+  font-size: clamp(27px, 3vw, 32px);
   margin-bottom: 5px;
 }
 .sidebar .title {
@@ -28,6 +28,14 @@ body {
   font-weight: bold;
   color: #ddd;
   margin-bottom: 20px;
+}
+.profile-picture {
+  width: auto;
+  max-width: 80%;
+}
+.profile-picture img {
+  width: 100%;
+  border-radius: 50%;
 }
 .contact, .skills, .profile {
   margin-bottom: 30px;
@@ -115,7 +123,36 @@ ul {
   .sidebar h1 {
     font-size: 34px;
   }
+  .profile-picture {
+    width: 165px;
+    display: inline-block;
+  }
+  .profile-picture img {
+    border-radius: 5%;
+  }
+  .contact {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+  }
+  .contact h3 {
+    margin-top: 0;
+  }
   .main {
     padding: 20px;
   }
+}
+
+@media (max-width: 653px) {
+  .contact {
+    display: block;
+    margin-left: 0px;
+    margin-top: 10px;
+  }
+}
+.fa-linkedin {
+  padding-right: 3px;
+}
+.fa-github {
+  padding-right: 5px;
 }
