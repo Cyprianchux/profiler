@@ -161,3 +161,7 @@ ul {
 .fa-github {
   padding-right: 5px;
 }
+
+.aid {
+  cursor: pointer;
+}
